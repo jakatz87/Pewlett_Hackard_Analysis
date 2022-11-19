@@ -3,8 +3,9 @@
 The purpose of this analysis is to aid a large company as it prpeares for a "silver tsunami" of retirement.  With several thousand current employees, the company must prepare for recruitment, training, and the financial impact of retirment benefits.  This project can help the C-suite leadership make good strategic decisions.
 
 ## Resources
-*Data Sources*: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
-*Software*: SQL (PostgreSQL11, pgAdmin)
+**Data Sources**: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
+
+**Software**: SQL (PostgreSQL11, pgAdmin)
 
 ## Results
 Using SQL queries from the available data, I found that the company can expect over 30,000 employees nearing retirement.
