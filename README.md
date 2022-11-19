@@ -1,6 +1,6 @@
 # Pewlett_Hackard_Analysis
 ## Overview
-The purpose of this analysis is to aid a large company as it prpeares for a "silver tsunami" of retirement.  With several thousand current employees, the company must prepare for recruitment, training, and the financial impact of retirment benefits.  This project can help the C-suite leadership make good strategic decisions.
+The purpose of this analysis is to aid a large company as it prepares for a "silver tsunami" of retirement.  With several thousand current employees, the company must prepare for recruitment, training, and the financial impact of retirement benefits.  This project can help the C-suite leadership make good strategic decisions.
 
 ## Resources
 **Data Sources**: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
@@ -72,7 +72,7 @@ ORDER BY e.emp_no;
 
 ![image](https://github.com/jakatz87/Pewlett_Hackard_Analysis/blob/main/Mentorship.png)
 
-Fortunately, the employees eligible for the mentorship program corrolate well with the impacted departments.
+Fortunately, the employees eligible for the mentorship program correlate well with the impacted departments.
 
 ## Summary
 The leadership in the Development, Production, and Sales departments should begin working on the mentorship program as soon as possible.  The CFO should begin several forecasting models that include the impact of retirement benefits packages, pay increases for upcoming leadership, and the recruitment and training of new employees to fill the gap of the "silver tsunami".  It seems like the company is prepared for the future.
